@@ -21,14 +21,17 @@
 
 ### 🛠️ Tech Stack
 
-**Frontend:**
-- HTML5 | CSS3 | JavaScript | React.js | Tailwind CSS  
-**Backend:**
-- Node.js | Express.js  
-**Database:**
-- MongoDB  
-**Tools:**
-- Git | GitHub | VS Code | Postman
+**Frontend:**  
+HTML5 • CSS3 • JavaScript • React.js • Tailwind CSS
+
+**Backend:**  
+Node.js • Express.js
+
+**Database:**  
+MongoDB
+
+**Tools:**  
+Git • GitHub • VS Code • Postman
 
 ---
 
