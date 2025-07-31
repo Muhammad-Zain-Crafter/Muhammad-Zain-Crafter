@@ -40,7 +40,5 @@ Git • GitHub • VS Code • Postman
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Zain-Crafter&theme=tokyonight" alt="GitHub Streak" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Zain-Crafter&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Zain-Crafter&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
