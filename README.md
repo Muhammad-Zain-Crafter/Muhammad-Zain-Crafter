@@ -22,7 +22,7 @@
 ### 🛠️ Tech Stack
 
 **Frontend:**
-- HTML5 | CSS3 | JavaScript | React.js | Tailwind CSS
+- HTML5 | CSS3 | JavaScript | React.js | Tailwind CSS  
 **Backend:**
 - Node.js | Express.js  
 **Database:**
