@@ -1,16 +1,48 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Muhammad Zain</h1>
+<h3 align="center">BS Computer Science student | Web Developer in the making | Lifelong Learner</h3>
 
-<!--
-**Muhammad-Zain-Crafter/Muhammad-Zain-Crafter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Muhammad-Zain-Crafter&label=Profile%20views&color=0e75b6&style=flat" alt="Muhammad-Zain-Crafter" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 🎓 I’m currently pursuing **BS in Computer Science**
+- 💻 Passionate about **modern web development**
+- 🤹 Hands-on experience with **HTML5, CSS3, JavaScript, ReactJS**, and **Tailwind CSS**
+- 🌱 Currently learning **Node.js**, **Express**, and **MongoDB**
+- 🔭 Working on full-stack projects and improving my **DSA** skills in Python
+- 📫 Reach me at: [zmunawar872@gmail.com](mailto:zmunawar872@gmail.com)
+- 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/zain-munawar-19ba6a319)
+
+---
+
+### 🛠️ Tech Stack
+
+**Frontend:**
+- HTML5 | CSS3 | JavaScript | React.js | Tailwind CSS
+**Backend:**
+- Node.js | Express.js  
+**Database:**
+- MongoDB  
+**Tools:**
+- Git | GitHub | VS Code | Postman
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Zain-Crafter&show_icons=true&theme=tokyonight" alt="github stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Zain-Crafter&layout=compact&theme=tokyonight" alt="top languages" />
+</p>
+
+---
+
+### 🤝 Let's Connect!
+
+I'm open to internship opportunities, collaborations, and new challenges. Feel free to connect or drop a message!
+
