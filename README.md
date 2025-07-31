@@ -35,17 +35,12 @@ Git • GitHub • VS Code • Postman
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Zain-Crafter&show_icons=true&theme=tokyonight" alt="github stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Zain-Crafter&theme=tokyonight" alt="GitHub Streak" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Zain-Crafter&layout=compact&theme=tokyonight" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Zain-Crafter&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Zain-Crafter&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-
----
-
-### 🤝 Let's Connect!
-
-I'm open to internship opportunities, collaborations, and new challenges. Feel free to connect or drop a message!
-
