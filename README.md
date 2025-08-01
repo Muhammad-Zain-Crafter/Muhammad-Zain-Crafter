@@ -15,7 +15,7 @@
 - 🌱 Currently learning **Node.js**, **Express**, and **MongoDB**
 - 🔭 Working on full-stack projects and improving my **DSA** skills in Python
 - 📫 Reach me at: [zmunawar872@gmail.com](mailto:zmunawar872@gmail.com)
-- 🔗 Connect on [LinkedIn](linkedin.com/in/muhammad-zain-19ba6a319)
+- 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/muhammad-zain-19ba6a319/)
 
 ---
 
