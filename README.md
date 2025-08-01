@@ -15,7 +15,7 @@
 - 🌱 Currently learning **Node.js**, **Express**, and **MongoDB**
 - 🔭 Working on full-stack projects and improving my **DSA** skills in Python
 - 📫 Reach me at: [zmunawar872@gmail.com](mailto:zmunawar872@gmail.com)
-- 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/zain-munawar-19ba6a319)
+- 🔗 Connect on [LinkedIn](linkedin.com/in/muhammad-zain-19ba6a319)
 
 ---
 
@@ -38,7 +38,7 @@ Git • GitHub • VS Code • Postman
 ### 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Muhammad-Zain-Crafter&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Zain-Crafter&theme=tokyo-night&bg_color=0d1117&color=ffffff&line=00bcd4&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Zain-Crafter&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
