@@ -27,6 +27,7 @@ Node.js • Express.js
 
 **Database:**  
 MongoDB
+SQL
 
 **Tools:**  
 Git • GitHub • VS Code • Postman
