@@ -26,8 +26,7 @@ HTML5 • CSS3 • JavaScript • React.js • Tailwind CSS
 Node.js • Express.js
 
 **Database:**  
-MongoDB
-SQL
+MongoDB • SQL
 
 **Tools:**  
 Git • GitHub • VS Code • Postman
