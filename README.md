@@ -1,62 +1,83 @@
 <h1 align="center">Hi 👋, I'm Muhammad Zain</h1>
-<h3 align="center">BS Computer Science student | Web Developer in the making | Lifelong Learner</h3>
+<h3 align="center">
+BS Computer Science Student • Full-Stack (MERN) Developer • Problem Solver
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Muhammad-Zain-Crafter&label=Profile%20views&color=0e75b6&style=flat" alt="Muhammad-Zain-Crafter" />
+  <img src="https://komarev.com/ghpvc/?username=Muhammad-Zain-Crafter&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
-### 🚀 About Me
+## 👨‍💻 About Me
 
-- 🎓 I’m currently pursuing **BS in Computer Science**
-- 💻 Passionate about **modern web development**
-- 🤹 Hands-on experience with **HTML5, CSS3, JavaScript, ReactJS**, and **Tailwind CSS**
-- 🌱 Currently learning **Node.js**, **Express**, and **MongoDB**
-- 🔭 Working on full-stack projects and improving my **DSA** skills in Python
+I’m a **Computer Science undergraduate at KIET (Karachi)** with a strong focus on **full-stack web development**.  
+I enjoy building **scalable backend systems**, clean APIs, and responsive user interfaces.
 
----
-
-### 🛠️ Tech Stack
-
-**Frontend:**  
-HTML5 • CSS3 • JavaScript • React.js • Tailwind CSS
-
-**Backend:**  
-Node.js • Express.js
-
-**Database:**  
-MongoDB • SQL
-
-**Tools:**  
-Git • GitHub • VS Code • Postman
+- 🎓 BS Computer Science (2023 – Present)
+- 🧠 Strong foundation in **DSA, OOP, and RESTful APIs**
+- ⚙️ Experience building **real-world MERN applications**
+- 🚀 Passionate about learning, shipping, and improving code quality
+- 🎯 Actively seeking **internship / junior developer opportunities**
 
 ---
 
-### 📊 GitHub Activity & Stats
+## 🧩 What I’m Currently Doing
+
+- 🔨 Building **backend-heavy MERN projects**
+- 🌱 Improving **Node.js, Express, MongoDB** architecture skills
+- 📚 Practicing **Data Structures & Algorithms (Python)**
+- 🧪 Exploring authentication, authorization & system design basics
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- HTML5 • CSS3 • JavaScript (ES6+)
+- React.js • Tailwind CSS
+- Responsive & component-based UI design
+
+### Backend
+- Node.js • Express.js
+- RESTful APIs • JWT Authentication
+- Middleware, error handling, MVC structure
+
+### Database
+- MongoDB (Mongoose)
+- SQL (Basics)
+
+### Tools & Workflow
+- Git & GitHub
+- VS Code • Postman
+- API testing & debugging
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Zain-Crafter&theme=tokyo-night&bg_color=0d1117&color=ffffff&line=00bcd4&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Zain-Crafter&theme=tokyo-night&bg_color=0d1117&hide_border=true" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Zain-Crafter&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Zain-Crafter&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Let’s Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammad-zain-19ba6a319/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:zmunawar872@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:mz0187914@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/Muhammad-Zain-Crafter" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213911719-55392cbf-d89a-4711-8c40-53c6d7dcbf15.gif" alt="Connect Image" width="400px" />
+  <i>“Learning by building. Growing by shipping.”</i>
 </p>
