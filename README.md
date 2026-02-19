@@ -1,7 +1,23 @@
 <h1 align="center">Hi 👋, I'm Muhammad Zain</h1>
-<h3 align="center">
-BS Computer Science Student • Full-Stack (MERN) Developer • Problem Solver
-</h3>
+
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?
+    font=Fira+Code
+    &size=20
+    &duration=2500
+    &pause=800
+    &color=00BFFF
+    &center=true
+    &vCenter=true
+    &width=600
+    &lines=BS+Computer+Science+Student;
+    Aspiring+MERN+Stack+Developer;
+    Problem+Solver"
+    alt="Typing SVG"
+  />
+</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Muhammad-Zain-Crafter&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
